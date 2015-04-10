@@ -1,9 +1,9 @@
-name             'consul-node'
+name             'consul_node'
 maintainer       'Michael Browning'
 maintainer_email 'mrbrowning@distopia.net'
-license          'All rights reserved'
-description      'Installs/configures a Consul node'
-long_description 'Installs/configures a minimal node with Docker, and then runs a Consul instance inside Docker.'
+license          'MIT'
+description      'Install/configure a Consul cluster with Vagrant and Docker'
+long_description 'Install/configure a Consul cluster with Vagrant and Docker'
 version          '0.1.0'
 
-depends "docker"
+depends 'docker'
