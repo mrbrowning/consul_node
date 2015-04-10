@@ -45,4 +45,4 @@ dashboard with your three participating nodes. Further services built on top of 
 
 ## License and Authors
 
-Author:: Michael Browning (mrbrowning@distopia.net)
+Author: Michael Browning (mrbrowning@distopia.net)
