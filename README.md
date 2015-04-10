@@ -1,4 +1,4 @@
-# consul_node-cookbook
+# consul_node
 
 Install/configure a minimal node with Docker, and then run a Consul instance inside Docker.
 The `primary` recipe is meant for the bootstrap host, and the `secondary` recipe for the
